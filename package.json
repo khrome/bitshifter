@@ -1,0 +1,33 @@
+{
+    "name": "bitshifter",
+    "homepage": "https://github.com/khrome/bitshifter",
+    "version": "0.0.1-alpha",
+    "main": "bitshifter.js",
+    "description": "",
+    "keywords": [
+        "bitsquatting",
+        "bitshift",
+        "url"
+    ],
+    "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
+    "contributors": [],
+    "bugs": {
+        "url": "https://github.com/khrome/bitshifter/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/khrome/bitshifter.git"
+    },
+    "dependencies": {
+        "bit-mask": "*"
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*"
+    },
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
